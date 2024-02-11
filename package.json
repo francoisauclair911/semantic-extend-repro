@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@semantic-release/gitlab": "^13.0.2",
     "semantic-release": "^23.0.2"
   }
 }
