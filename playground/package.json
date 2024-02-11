@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@adranetwork/semantic-release-preset": "file:..",
+    "semantic-release": "^23.0.2"
+  }
+}
